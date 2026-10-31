@@ -5,17 +5,19 @@
 //  Created by derp on 10/30/26.
 //
 
+import BraisenlyAI
+import BraisenlySwiftUI
 import SwiftUI
 
 struct ContentView: View {
+    @State private var controller: AIChatWorkspaceController
+
+    init(controller: AIChatWorkspaceController? = nil) {
+        _controller = State(initialValue: controller ?? AIChatWorkspaceController())
+    }
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        AIChatWorkspaceView(controller: controller)
     }
 }
 
