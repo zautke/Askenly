@@ -1,0 +1,66 @@
+[
+  {
+    "local": "docs/research/2026-11-02-mcp/00-research-context.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-00.md",
+    "sha256": "25104970952f49a6a9fde797094f5fb2af10d2f509b96fb8e8d0b1c52857e286",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Research Context - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/research/2026-11-02-mcp/01-ios-ai-implementations.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-01.md",
+    "sha256": "352ab973cb0a482039a037396832172af8fb4352e3111caa6e6fb4bf72644ed7",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Research 01 - iOS AI Implementations - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/research/2026-11-02-mcp/02-ios-mcp-patterns.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-02.md",
+    "sha256": "b38758d44881d7dc07f6f665c26554a906a53d06b03751abfad1e61c4c59ea47",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Research 02 - iOS MCP Patterns - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/research/2026-11-02-mcp/03-ios-internal-architecture.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-03.md",
+    "sha256": "eb0d46e1a1f7d063ddd1b3635da2b75bef0ab51169103c7b03a71fdb9e3ec0dc",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Research 03 - iOS Internal Architecture - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/research/2026-11-02-mcp/04-swift64-apple-frameworks.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-04.md",
+    "sha256": "3856798a48debaca586f8edc983923eaa4eb8b98d606a3ae7bc1680d81da8691",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Research 04 - Swift and Apple Frameworks - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/research/2026-11-02-mcp/05-builder-check.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mcp-research-05.md",
+    "sha256": "11f2785dc46e56486b44ed67fafb6bc01bb21bf349a058ff256f85caefe10f47",
+    "kb_directory": "projects/askenly/research/2026-11-02-mcp",
+    "kb_title": "Askenly MCP Builder Check - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/superpowers/plans/2026-11-02-mobile-mcp-integration.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mobile-mcp-integration-plan.md",
+    "sha256": "50daf568b55846803836bfb98addcf9e489d7765f92132391bc9f0c76f938bce",
+    "kb_directory": "projects/askenly/plans",
+    "kb_title": "Askenly Mobile MCP Integration Implementation Plan - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  },
+  {
+    "local": "docs/superpowers/specs/2026-11-02-mobile-mcp-design.md",
+    "deferred": "/Users/derp/.claude/deferred-kb-sync/2026-11-02-askenly-mobile-mcp-design.md",
+    "sha256": "52f7651248e112f26c50d7bee954ba7dc4a782437883db068b7748f671c54407",
+    "kb_directory": "projects/askenly/design",
+    "kb_title": "Askenly Mobile MCP Design - 2026-11-02",
+    "sync_status": "staged; canonical connector internal error and direct endpoint HTTP 503"
+  }
+]
